@@ -42,7 +42,7 @@
                 </StackPanel>
             </Border>
             <Grid Grid.Row="2" Style="{StaticResource DataWindowFooterGridStyle}">
-                <Button HorizontalAlignment="Right" Margin="0,0,32,0" Name="CloseButton" Click="ChangeButton_OnClick" Content="Ändern" Visibility="Visible" />
+                <Button HorizontalAlignment="Right" Margin="0,0,32,0" Name="CloseButton" Click="ChangeButton_OnClick" Content="Change Style" Visibility="Visible" />
             </Grid>
         </Grid>
     </Border>
