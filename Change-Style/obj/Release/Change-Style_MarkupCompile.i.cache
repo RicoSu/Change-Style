@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\
+C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Release\
 Change_Style
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\App.xaml
 7-408521580
 
-5-1905912642
+91379459382
 13738642453
 ChangeStyle.xaml;Styles\Blue.xaml;Styles\Green.xaml;Styles\Orange.xaml;Styles\Pink.xaml;Styles\Red.xaml;ToolStyleResourceDictionary.xaml;
 

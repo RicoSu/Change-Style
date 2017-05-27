@@ -8,11 +8,11 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Change-Style")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Example of how to work with styles or accents")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("rotary-style.com")]
 [assembly: AssemblyProduct("Change-Style")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("rotary-style.com")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

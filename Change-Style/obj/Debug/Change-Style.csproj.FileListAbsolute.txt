@@ -10,12 +10,12 @@ C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change-
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\bin\Debug\Change-Style.exe.config
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\bin\Debug\Change-Style.exe
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\bin\Debug\Change-Style.pdb
-C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\MainWindow.g.cs
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\App.baml
-C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\MainWindow.baml
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\ToolStyleResourceDictionary.baml
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change-Style.g.resources
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change_Style.Properties.Resources.resources
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change-Style.csproj.GenerateResource.Cache
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change-Style.exe
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\Change-Style.pdb
+C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\ChangeStyle.g.cs
+C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\obj\Debug\ChangeStyle.baml

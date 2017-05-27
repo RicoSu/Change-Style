@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Rico Suter\GitHubWorkspaces\Change-Style\Change-Style\App.xaml
-7-894803299
+7-408521580
 
-9377143007
+9488976867
 13738642453
-MainWindow.xaml;Styles\Blue.xaml;Styles\Green.xaml;Styles\Orange.xaml;Styles\Pink.xaml;Styles\Red.xaml;ToolStyleResourceDictionary.xaml;
+ChangeStyle.xaml;Styles\Blue.xaml;Styles\Green.xaml;Styles\Orange.xaml;Styles\Pink.xaml;Styles\Red.xaml;ToolStyleResourceDictionary.xaml;
 
-False
+True
 
