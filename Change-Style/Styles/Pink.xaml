@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--Main-->
+    <SolidColorBrush x:Key="ThemeColorBrush" Color="#CF4078"></SolidColorBrush> <!-- Theme Color -->
+    <SolidColorBrush x:Key="ManagementColorBrush" Color="#F1A128"></SolidColorBrush>
+    <SolidColorBrush x:Key="MainBlackFontColor" Color="#444444"></SolidColorBrush>
+    <SolidColorBrush x:Key="MainWhiteFontColor" Color="#FFFFFF"></SolidColorBrush>
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="White"/>
+    <SolidColorBrush x:Key="MainWindowSplitBorderBrush" Color="#FFC1E9"></SolidColorBrush>
+    <SolidColorBrush x:Key="DisabledBackgroundBrush" Color="#F6F6F6"></SolidColorBrush>
+    <SolidColorBrush x:Key="DisabledBorderBrush" Color="#ADB2B5"></SolidColorBrush>
+    <SolidColorBrush x:Key="HomeOpacityBrush" Color="#FF212121"/>
+    <SolidColorBrush x:Key="DataWindowFooterBackgroundBrush" Color="#FFE0F4"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="ControlHeaderBackgroundPressdBrush" Color="#FFE0F4"></SolidColorBrush>
+    <SolidColorBrush x:Key="ControlHeaderForegroundPressdBrush" Color="#CF4078"></SolidColorBrush>
+</ResourceDictionary>
